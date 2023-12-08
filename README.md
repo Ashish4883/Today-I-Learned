@@ -1,6 +1,6 @@
 # LIVE LINK
 
-This project is deployed using netlify  [Today-I-Learned(https://todayilearned-ashish.netlify.app/)].
+This project is deployed using netlify  [Today-I-Learned](https://todayilearned-ashish.netlify.app/).
 
 # Getting Started with Create React App
 
